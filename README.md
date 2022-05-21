@@ -2,8 +2,8 @@
 Testing crypto price will up or down tmr or a specific days later
 
 # Dataset source:
-https://finance.yahoo.com/quote/ETH-USD/history/
-https://finance.yahoo.com/quote/BTC-USD/history/
+- https://finance.yahoo.com/quote/ETH-USD/history/
+- https://finance.yahoo.com/quote/BTC-USD/history/
 
 # Period: 
 1 to 3 years
