@@ -22,3 +22,6 @@ Testing crypto price will up or down tmr or a specific days later
 3. min_accepted_rate : between 0 and 1. 
     - it defines the minimal number of accepted cases rate
     - it affects the probability suggested to determine the prediction is really going to ups. (Which is the confidence)
+
+# Output
+best(most accurate in predict up) model, dataset and algorithm
