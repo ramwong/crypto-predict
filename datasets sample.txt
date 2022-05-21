@@ -1,0 +1,39 @@
+datasets={
+	1_year_BTC_USD:{
+		dataset : np.array,
+		labels : [],
+		models : {
+			"knn:{
+				"model_params : {
+					param1:value, ...
+				},
+				"model" : model,
+				"time_for_training",
+				"time_for_predict_whole_set",
+				"whole_set_accuracy",
+				"whole_set_confusion_matrix",
+				"labels":{
+					0:{
+						"precision",
+						"recall"
+					},
+					1:{
+						"precision",
+						"recall"
+					},
+				},
+				"importance",
+				"confidence",
+				"accepted_case_rate"
+			},
+			...
+		},
+		"X",
+		"y",
+		"X_train",
+		"y_train",
+		"X_test",
+		"y_test"		
+	},
+	...
+}
